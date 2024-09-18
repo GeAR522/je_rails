@@ -1,0 +1,17 @@
+{
+  "[ruby]": {
+    "editor.defaultFoldingRangeProvider": "Shopify.ruby-lsp"
+  },
+  "sqltools.connections": [
+    {
+      "previewLimit": 50,
+      "server": "localhost",
+      "port": 5432,
+      "askForPassword": true,
+      "driver": "PostgreSQL",
+      "name": "localhost",
+      "database": "je_development",
+      "username": "postgres"
+    }
+  ]
+}
